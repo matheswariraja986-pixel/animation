@@ -15,7 +15,7 @@ body{
         transform: translateX(-50%-45%);
         width: 500;
         animation: walk forwards 6s linear infinite;
-        animation-timing-function: cubic-bezier(0.45, 0.05, 0.55, 0.95));
+        animation-timing-function: cubic-bezier(0.45, 0.05, 0.55, 0.95);
         z-index:1;    
      }
      .quote{
